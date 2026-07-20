@@ -1,1 +1,8 @@
-
+{
+  "model": "EL01",
+  "latest": "1.0.1",
+  "url": "https://raw.githubusercontent.com/<yourname>/keisoku-ota/main/ota/EL01/firmware_v1.0.1.bin",
+  "sha256": "ABCDEF1234567890...",
+  "min_hw": "S3-V0.2",
+  "release_date": "2026-07-20"
+}
