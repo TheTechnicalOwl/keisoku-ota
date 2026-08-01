@@ -1,8 +1,8 @@
 {
   "model": "EL01",
-  "latest": "1.0.1.2026",
-  "url": "https://raw.githubusercontent.com/TheTechnicalOwl/keisoku-ota/main/ota/EL01/firmware_v1.0.1.2026.bin",
-  "sha256": "6CA73F1B2043ABEF13F969D3367729C860D741FD25A32AF610171DAF0B9E3C27",
+  "latest": "1.0.1.2027",
+  "url": "https://raw.githubusercontent.com/TheTechnicalOwl/keisoku-ota/main/ota/EL01/firmware_v1.0.1.2027.bin",
+  "sha256": "a17df0de66094f2af88d3b6094aac53f4ca1b34ae5744baceb3e52462d8cc968",
   "min_hw": "S3-V0.2",
   "release_date": "2026-07-01"
 }
